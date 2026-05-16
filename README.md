@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Estilos
     classDef client fill:#e6f2ee,stroke:#1E7A5E,stroke-width:2px,color:#145541;
@@ -44,3 +45,4 @@ graph TD
     
     D -- "Guarda Coordenadas GPS temporales" --> G
     D -- "Emite eventos WebSocket (Subasta)" --> G
+```
